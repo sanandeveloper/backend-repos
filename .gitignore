@@ -1,2 +1,7 @@
-node_modules
-env
+# Node.js
+node_modules/
+.env
+.DS_Store
+npm-debug.log
+logs
+*.log
